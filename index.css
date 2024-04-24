@@ -1,0 +1,50 @@
+@font-face {
+    font-family: ChesterZoo;
+    src: url(./assets/fonts/ChesterZoo.ttf);
+}
+@font-face{
+    font-family: TimesZoo;
+    src: url(./assets/fonts/TimesZoo.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+/* header */
+
+#header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 5px;
+    max-width: 1200px;
+    margin: auto;
+    background-color: #A8A33A;
+}
+#headerdroite{
+    display :flex;
+    align-items: center;
+    padding: 10px 10px;
+}
+
+h3{
+    margin-left: 50px;
+    font-family: ChesterZoo;
+}
+h1{
+    margin-left: 5px;
+    font-family: TimesZoo;
+}
+
+
+/*  */
+
+/*  */
+
+/*  */
+
+/*  */
+
+/*  */
